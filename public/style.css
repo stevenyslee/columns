@@ -1,0 +1,8 @@
+#board {
+  display:flex;
+}
+
+.columns {
+  border-style: solid;
+}
+
